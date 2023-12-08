@@ -551,7 +551,7 @@ img {
 .subscribe-form-input::placeholder {
   color: #fff;
 }
-.contact-form-btn {
+/* .contact-form-btn {
   display: flex;
   border: none;
   outline: none;
@@ -561,9 +561,6 @@ img {
   text-align: center;
   min-width: 165px;
   height: 40px;
-  /* Button Text */
-
-  height: 40px;
   display: inline-flex;
   padding: 8px 24px;
   justify-content: center;
@@ -571,7 +568,7 @@ img {
   gap: 16px;
   border-radius: 4px;
   background: #4d5ae5;
-}
+} */
 
 /* BACKDROP */
 .backdrop {
@@ -609,7 +606,6 @@ img {
   padding-top: 72px;
   margin-left: auto;
   margin-right: auto;
-
   background-color: #fcfcfc;
 }
 
@@ -629,6 +625,7 @@ img {
 }
 
 .contact-form-btn {
+  display: flex;
   color: #fff;
   padding: 16px 32px;
   border-radius: 4px;
@@ -641,7 +638,7 @@ img {
   text-align: center;
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
+  height: 40px;
   /* Button Text */
   font-size: 16px;
   font-weight: 500;
