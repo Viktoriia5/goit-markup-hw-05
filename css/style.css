@@ -585,6 +585,9 @@ img {
 }
 
 /* FORM*/
+.modal {
+  position: absolute;
+}
 .contact-form {
   position: relative;
   width: 408px;
