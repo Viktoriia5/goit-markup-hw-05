@@ -645,6 +645,9 @@ img {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.64px;
 }
+.icon-footer-plane {
+  margin-left: 16px;
+}
 .contact-form-header {
   color: #2e2f42;
   text-align: center;
