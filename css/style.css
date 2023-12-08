@@ -788,3 +788,8 @@ img {
 .privacy-policy {
   color: #4d5ae5;
 }
+.send {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+}
