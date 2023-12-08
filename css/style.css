@@ -528,6 +528,9 @@ img {
 .subscribe-text {
   color: #fff;
   margin-bottom: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .subscribe-form input {
   height: 40px;
