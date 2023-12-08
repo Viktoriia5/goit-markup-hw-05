@@ -626,16 +626,16 @@ img {
 
 .contact-form-btn {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
   color: #fff;
   padding: 16px 32px;
   border-radius: 4px;
   background: #4d5ae5;
   height: 56px;
-  display: block;
-  min-width: 169px;
+  min-width: 165px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-  color: #fff;
-  text-align: center;
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   height: 40px;
@@ -644,6 +644,7 @@ img {
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.64px;
+  border: none;
 }
 .icon-footer-plane {
   margin-left: 16px;
