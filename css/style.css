@@ -780,7 +780,7 @@ img {
 .contact-form-input-container {
   position: relative;
 }
-.form-checkbox-span:checked {
+.form-checkbox-input:checked + .form-checkbox-label > .form-checkbox-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
