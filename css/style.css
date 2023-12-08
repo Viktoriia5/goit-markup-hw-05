@@ -552,14 +552,15 @@ img {
   color: #fff;
 }
 .contact-form-btn {
+  display: flex;
   border: none;
   outline: none;
+  font-family: "Roboto", sans-serif;
   padding: 8px 0 8px 24px;
-}
-.contact-form-btn {
   color: #fff;
   text-align: center;
-
+  min-width: 165px;
+  height: 40px;
   /* Button Text */
 
   height: 40px;
